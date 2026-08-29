@@ -12,6 +12,6 @@ ID: BUG-002
 Severity: High
 Priority: Medium
 Скриншот:
-<img width="1686" height="1296" alt="image" src="https://github.com/user-attachments/assets/31cb3269-b1b7-4631-bb9f-d262079d8a9e" />
-<img width="1724" height="1297" alt="image" src="https://github.com/user-attachments/assets/18bd822f-c683-4f09-8310-c43b647516c9" />
+<img width="1735" height="1300" alt="image" src="https://github.com/user-attachments/assets/73d125d9-b4f4-4803-9ef6-5578fe69885b" />
+<img width="1732" height="1294" alt="image" src="https://github.com/user-attachments/assets/b12c7f7f-03da-4ae1-bb67-45ba708d9d98" />
 Дополнительно: Ручная проверка через Narrator подтвердила находку автоматического аудита и показала конкретный практический эффект проблемы — accessible-название сейчас фактически подменяется значением поля, а не является описанием его назначения.
